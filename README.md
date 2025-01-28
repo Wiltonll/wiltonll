@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2580&height=120&section=header"/>
+<img src="https://raw.githubusercontent.com/Wiltonll/wiltonll/refs/heads/main/assets/rage.gif" alt="KameGIF" height= "9" width="100%">
+
 
 
 ## Wilton Carlos - Desenvolvedor Web 🦦
