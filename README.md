@@ -1,9 +1,14 @@
-## Hi there 👋
+![Kamehameha GIF](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/bb7f2184-5481-429e-bd37-8e0f86c21654/demtsjz-0f9d653f-a03f-4dd6-aed1-489982e6b42b.gif)
 
-<!--
-**Wiltonll/wiltonll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Wilton Carlos - Desenvolvedor Web 🦦
+
+
+Sou desenvolvedor web com expertise em React, Next.js, Node.js e Nest.js, focado na criação de aplicações web eficientes. Tenho ampla vivência no desenvolvimento de interfaces interativas e escaláveis, além de conhecimento em arquitetura modular e escalável para back-end. Minha trajetória inclui projetos voltados para gestão educacional, integração com APIs e trabalho com bancos de dados.
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
