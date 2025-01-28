@@ -28,7 +28,7 @@ Sou desenvolvedor web com expertise em React, Next.js, Node.js e Nest.js, focado
 <div>
 <a href="https://instagram.com/wiltonll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 <a href = "mailto:ywiltoncm.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="www.linkedin.com/in/wilton-cm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/wilton-cm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img src="https://raw.githubusercontent.com/Wiltonll/wiltonll/refs/heads/main/assets/RAIN2.gif" alt="" height= "50" width="100%">
