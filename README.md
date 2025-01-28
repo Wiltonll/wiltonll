@@ -1,4 +1,4 @@
-![Kamehameha GIF](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/bb7f2184-5481-429e-bd37-8e0f86c21654/demtsjz-0f9d653f-a03f-4dd6-aed1-489982e6b42b.gif)
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/bb7f2184-5481-429e-bd37-8e0f86c21654/demtsjz-0f9d653f-a03f-4dd6-aed1-489982e6b42b.gif" alt="Kamehameha GIF" width="100%">
 
 
 ## Wilton Carlos - Desenvolvedor Web 🦦
