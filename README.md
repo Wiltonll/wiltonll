@@ -4,7 +4,7 @@
 
 Sou desenvolvedor web com expertise em React, Next.js, Node.js e Nest.js, focado na criação de aplicações web eficientes. Tenho ampla vivência no desenvolvimento de interfaces interativas e escaláveis, além de conhecimento em arquitetura modular e escalável para back-end. Minha trajetória inclui projetos voltados para gestão educacional, integração com APIs e trabalho com bancos de dados.
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=wilton11&show_icons=true&theme=dracula&token=PAT_1)
+![Linguagens](https://github-readme-stats-drab-psi-32.vercel.app/api/top-langs/?username=wiltonll&layout=compact&theme=dracula&count_private=true&cache_seconds=21600)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="wil-Js" height="30" width="40"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
