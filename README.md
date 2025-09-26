@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/Wiltonll/wiltonll/refs/heads/main/assets/RAIN.gif" alt="" height= "50" width="100%">
 
-## Wilton Carlos - Desenvolvedor Web FullStack 🦦
+## Wilton - Desenvolvedor Web FullStack 👨🏻‍💻
 
-Sou desenvolvedor web com expertise em React, Next.js, Node.js e Nest.js, focado na criação de aplicações web eficientes. Tenho ampla vivência no desenvolvimento de interfaces interativas e escaláveis, além de conhecimento em arquitetura modular e escalável para back-end. Minha trajetória inclui projetos voltados para gestão educacional, integração com APIs e trabalho com bancos de dados.
+I'm a web developer with expertise in React, Next.js, Node.js, and Nest.js, focused on creating efficient web applications. I have extensive experience developing interactive and scalable interfaces, as well as knowledge of modular and scalable back-end architecture. My experience includes projects focused on educational management, API integration, and database work.
 
 ![Linguagens](https://github-readme-stats-drab-psi-32.vercel.app/api/top-langs/?username=wiltonll&layout=compact&theme=dracula&count_private=true&cache_seconds=21600)
 
