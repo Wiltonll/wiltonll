@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/Wiltonll/wiltonll/refs/heads/main/assets/RAIN.gif" alt="" height= "50" width="100%">
 
-## Wilton - Desenvolvedor Web FullStack 👨🏻‍💻
+## Wilton ✹
 
-I'm a web developer with expertise in React, Next.js, Node.js, and Nest.js, focused on creating efficient web applications. I have extensive experience developing interactive and scalable interfaces, as well as knowledge of modular and scalable back-end architecture. My experience includes projects focused on educational management, API integration, and database work.
+**`Software Engineer`**
+
+I am a web developer with experience in React, Next.js and Node.js, dedicated to building modern, efficient and scalable applications. I have experience developing dynamic and responsive interfaces, as well as creating organized and scalable back-end architectures. I have participated in projects involving educational management systems, API integration, and database modeling, always seeking well-structured and high-performance solutions.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="wil-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
