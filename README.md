@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Wiltonll/wiltonll/refs/heads/main/assets/RAIN.gif" alt="" height= "50" width="100%">
 
-## Wilton ✹
+## Wilton
 
 **`Software Engineer`**
 
