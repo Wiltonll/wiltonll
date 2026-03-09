@@ -4,8 +4,6 @@
 
 I'm a web developer with expertise in React, Next.js, Node.js, and Nest.js, focused on creating efficient web applications. I have extensive experience developing interactive and scalable interfaces, as well as knowledge of modular and scalable back-end architecture. My experience includes projects focused on educational management, API integration, and database work.
 
-![Linguagens](https://github-readme-stats-drab-psi-32.vercel.app/api/top-langs/?username=wiltonll&layout=compact&theme=dracula&count_private=true&cache_seconds=21600)
-
   <div style="display: inline_block"><br>
   <img align="center" alt="wil-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="wil-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
