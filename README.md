@@ -21,8 +21,7 @@ I am a web developer with experience in React, Next.js and Node.js, dedicated to
 </div>
 
 ##
-<div>
-<a href="https://instagram.com/wiltonll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+<div> 
 <a href = "mailto:ywiltoncm.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/wilton-cm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
