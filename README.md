@@ -4,7 +4,8 @@
 
 **`Software Engineer`**
 
-I am a web developer with experience in React, Next.js and Node.js, dedicated to building modern, efficient and scalable applications. I have experience developing dynamic and responsive interfaces, as well as creating organized and scalable back-end architectures. I have participated in projects involving educational management systems, API integration, and database modeling, always seeking well-structured and high-performance solutions.
+Software Engineer with experience in software development, AI-powered solutions, automation, and system integrations. 
+I have hands-on experience with JavaScript/TypeScript, Node.js, REST APIs, databases, and automation, along with knowledge of Java and Spring. Building practical solutions that connect applications, services, data, and AI systems. I have experience developing dynamic and responsive interfaces, as well as creating organized and scalable back-end architectures. I have participated in projects involving educational management systems, API integration, and database modeling, always seeking well-structured and high-performance solutions.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="wil-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
